@@ -1,26 +1,26 @@
-Bigcoin Core integration/staging tree
+Becoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/bigcoin-project/bigcoin.svg?branch=master)](https://travis-ci.org/bigcoin-project/bigcoin)
+[![Build Status](https://travis-ci.org/becoin-project/becoin.svg?branch=master)](https://travis-ci.org/becoin-project/becoin)
 
-https://bigcoin.tk
+https://becoin.tk
 
-What is Bigcoin?
+What is Becoin?
 ----------------
 
-Bigcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bigcoin uses peer-to-peer technology to operate
+Becoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Becoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bigcoin Core is the name of open source
+out collectively by the network. Becoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bigcoin Core software, see [https://bigcoin.tk](https://bigcoin.tk).
+the Bigcoin Core software, see [https://becoin.tk](https://becoin.tk).
 
 License
 -------
 
-Bigcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Becoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -64,8 +64,8 @@ not straightforward.
 Translations
 ------------
 
-We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to Bigcoin periodically.
+We only accept translation fixes that are submitted through [Becoin Core's Transifex page](https://www.transifex.com/projects/p/becoin/).
+Translations are converted to Becoin periodically.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
